@@ -10,5 +10,6 @@ Clone this repository to your local machine using Git:
 ```bash
 git clone <repository-url>
 cd <repository-folder>
+cd Client
 npm install axios react react-dom react-router-dom react-scripts
 npm start
