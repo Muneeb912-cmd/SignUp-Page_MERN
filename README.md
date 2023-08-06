@@ -12,4 +12,5 @@ git clone <repository-url>
 cd <repository-folder>
 cd Client
 npm install axios react react-dom react-router-dom react-scripts
+npm install react-bootstrap bootstrap
 npm start
